@@ -1,0 +1,72 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\electronics 8051\project7\task.uvproj
+Project File Date:  04/10/2020
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling code.c...
+code.c(1): warning C315: unknown #directive 'incluse'
+CODE.C(3): error C202: 'P3': undefined identifier
+CODE.C(4): error C202: 'P3': undefined identifier
+CODE.C(9): error C202: 'sw1': undefined identifier
+CODE.C(12): error C202: 'sw1': undefined identifier
+CODE.C(14): error C202: 'P2': undefined identifier
+CODE.C(16): error C202: 'P2': undefined identifier
+CODE.C(18): error C202: 'P2': undefined identifier
+CODE.C(20): error C202: 'P2': undefined identifier
+CODE.C(23): error C202: 'sw2': undefined identifier
+CODE.C(25): error C202: 'P2': undefined identifier
+CODE.C(27): error C202: 'P2': undefined identifier
+CODE.C(29): error C202: 'P2': undefined identifier
+CODE.C(31): error C202: 'P2': undefined identifier
+CODE.C(33): error C202: 'P2': undefined identifier
+CODE.C(35): error C202: 'P2': undefined identifier
+CODE.C(37): error C202: 'P2': undefined identifier
+CODE.C(39): error C202: 'P2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling code.c...
+linking...
+Program Size: data=9.0 xdata=0 code=120
+creating hex file from "task"...
+"task" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling code.c...
+linking...
+Program Size: data=9.0 xdata=0 code=144
+creating hex file from "task"...
+"task" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling code.c...
+linking...
+Program Size: data=9.0 xdata=0 code=144
+creating hex file from "task"...
+"task" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling code.c...
+CODE.C(15): warning C206: 'clocwise': missing function-prototype
+CODE.C(15): error C267: 'clocwise': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling code.c...
+linking...
+Program Size: data=9.0 xdata=0 code=190
+creating hex file from "task"...
+"task" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling code.c...
+linking...
+Program Size: data=9.0 xdata=0 code=190
+creating hex file from "task"...
+"task" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling code.c...
+linking...
+Program Size: data=9.0 xdata=0 code=175
+creating hex file from "task"...
+"task" - 0 Error(s), 0 Warning(s).
